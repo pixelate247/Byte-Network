@@ -18,7 +18,8 @@ Well-Made FCPS Jailbreak writeups and tools: [Block-Bypass](https://github.com/c
 
 ---
 # Straight to the Point
-For a full tutorial on **shimboot** go to: [Shimboot Doc](shimboot.md)
+For a full tutorial on **shimboot** go to the [Shimboot Tutorial](shimboot.md)
+
 **WARNING: Shimboot is not for beginners. It may break your computer if done improperly. Have some terminal and USB experience before attempting this.**
 
 # Infomation Gathering
