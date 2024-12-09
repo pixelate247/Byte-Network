@@ -36,7 +36,7 @@ If you don't use chrome or simply don't want to use Chromebook Recovery Utility,
 
 #### Download the Shimboot Images from here:
 - HP Fortis G10 (`drawper`): [Download (shimboot prebuild)](https://github.com/ading2210/shimboot/releases/download/v1.2.1/shimboot_dedede.zip)
-- HP Fortis G11 (`yavijo`): [Download (idk)](https://drive.usercontent.google.com/download?id=1ClFG2J1btlalzhYw0ZNeLskIzCdT9YBA&export=download&confirm=t) or [Download (shimboot prebuild)](https://github.com/ading2210/shimboot/releases/download/v1.2.1/shimboot_nissa.zip)
+- HP Fortis G11 (`yavijo`): [Download (shimboot prebuild)](https://github.com/ading2210/shimboot/releases/download/v1.2.1/shimboot_nissa.zip)
 
 They will be about 5GB in size.
 
