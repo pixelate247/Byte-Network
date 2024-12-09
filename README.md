@@ -16,6 +16,8 @@ Talkative™ Chat Room:
 # External Links
 Well-Made FCPS Jailbreak writeups and tools: [Block-Bypass](https://github.com/catfoolyou/Block-Bypass)
 
+---
+
 # Infomation Gathering
 Get your version
 
@@ -38,3 +40,11 @@ The format is something like this: *HP Fortis 14 inch G11 Chromebook* (My Chrome
 That chromebook type would be searched up on the ChromeOS Lookup.
 
 That Chromebook type's page is: [HP Fortis 14 inch G11 Chromebook Page](https://cros.tech/device/yavijo/)
+
+# Recovery Images
+
+Once you are on your Chromebook's page, you can download recovery images.
+
+From my knowledge, **Stable** is the main version.
+
+**Dev** is the experimental build, but should give more access to the device than Stable
